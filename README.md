@@ -1,6 +1,6 @@
 # supporting-material-msc
 
-Supporting material for hydro-geomechanical methane reservoir simulations related to Diego Volpatto's MSc work.
+Supporting material for hydro-geomechanical methane reservoir simulations related to Diego Tavares Volpatto's 2016 MSc dissertation.
 
 The repository contains small Firedrake scripts for learning and experimentation, plus a larger Chapter 5 reproduction script. The main physical ingredients are compressible gas flow, poroelasticity, and fixed-stress splitting.
 
